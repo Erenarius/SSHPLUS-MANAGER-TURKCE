@@ -1,0 +1,3 @@
+# SSHPLUS-MANAGER-TURKCE
+SSH PLUS TURKCE CEVIRI LAN
+# Buralar Hep Türkçe Olcak Yigidim
