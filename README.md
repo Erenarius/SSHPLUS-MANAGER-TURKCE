@@ -1,3 +1,6 @@
 # SSHPLUS-MANAGER-TURKCE
-SSH PLUS TURKCE CEVIRI LAN
-# Buralar Hep Türkçe Olcak Yigidim
+Türkçe yapmaya uğraşıyorum ??
+
+```bash
+wget https://raw.githubusercontent.com/Erenarius/SSHPLUS-MANAGER-TURKCE/master/Plus && chmod +x Plus* && ./Plus*
+```
